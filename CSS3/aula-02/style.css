@@ -1,0 +1,19 @@
+/*codigo para mudar a cor do fundo*/
+
+body {
+    background-color: #7CFC00;
+}
+
+#primeiro {
+    font-family: "Trebouchet MS", Arial, Arial, Helvetica, sans-serif;
+    color: #FFD;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.segundo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}

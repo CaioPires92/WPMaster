@@ -1,0 +1,21 @@
+.frutas {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #ff0000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#legumes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #0000ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+span.frase {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #333333;
+}
